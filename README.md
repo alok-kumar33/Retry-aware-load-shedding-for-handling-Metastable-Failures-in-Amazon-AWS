@@ -234,6 +234,4 @@ The ALB and instances are billed by the hour. Set an AWS budget alert before sta
 6. D. Yanacek, "Using load shedding to avoid overload," Amazon Builders' Library.
 7. M. Nottingham, R. Fielding, "Additional HTTP Status Codes," RFC 6585, 2012.
 
-## License
 
-Add a license before publishing (for example MIT) and place it in a `LICENSE` file.
